@@ -1,41 +1,41 @@
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Mappers\MapperDicumento.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Response\ClienteDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\repositorios\ClienteRepositorio.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\entidades\Endereco.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\entidades\Telefone.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\controles\DocumentoControle.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\repositorios\TelefoneRepositorio.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\controles\ClienteControle.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\modelos\AdicionadorLinkTelefone.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Servicos\TelefoneService.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\atualizarClienteDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\modelos\AdicionadorLinkEndereco.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\atualizarEndereciDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Response\ErroRespostaDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Servicos\DocumentoService.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Response\EnderecoDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\controles\TelefoneControle.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Servicos\ClienteService.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\CriarClienteDTo.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\modelos\AdicionadorLinkDocumento.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Mappers\MapperTelefone.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Response\TelefoneDto.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\exceptions\ManipuladorGlobalDeErros.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\exceptions\tipos\NaoexistenoBanco.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Mappers\MapperEndereco.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\modelos\AdicionadorLink.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\CriarDocumento.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Servicos\EnderecoService.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\repositorios\EnderecoRepositorio.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\atualizarDocumento.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\CriarTelefone.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\Mappers\MapperCliente.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\entidades\Cliente.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\modelos\AdicionadorLinkCliente.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Response\DocumentoDtO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\repositorios\DocumentoRepositorio.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\entidades\Documento.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\CriarEnderecoDTO.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\AutomanagerApplication.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\controles\EnderecoControle.java
-C:\Users\Setup Gamer\Downloads\gerson\AV1-DEV-WEB3-main\atvi-autobots-microservico-spring\automanager\src\main\java\com\autobots\automanager\DTO\Request\atualizarTelefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Servicos/TelefoneService.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Servicos/ClienteService.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/atualizarClienteDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/repositorios/DocumentoRepositorio.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/modelos/AdicionadorLinkTelefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/modelos/AdicionadorLinkDocumento.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/atualizarDocumento.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Servicos/DocumentoService.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/CriarDocumento.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/repositorios/ClienteRepositorio.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/entidades/Telefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/entidades/Endereco.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/repositorios/EnderecoRepositorio.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/CriarTelefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/CriarEnderecoDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/modelos/AdicionadorLinkEndereco.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/repositorios/TelefoneRepositorio.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Mappers/MapperTelefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Mappers/MapperEndereco.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/controles/EnderecoControle.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Response/DocumentoDtO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Response/ErroRespostaDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/atualizarTelefone.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/controles/DocumentoControle.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Response/TelefoneDto.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Mappers/MapperDicumento.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/modelos/AdicionadorLinkCliente.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/entidades/Cliente.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/atualizarEndereciDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Mappers/MapperCliente.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/exceptions/ManipuladorGlobalDeErros.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Response/ClienteDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/modelos/AdicionadorLink.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/controles/ClienteControle.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/controles/TelefoneControle.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/AutomanagerApplication.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/entidades/Documento.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/exceptions/tipos/NaoexistenoBanco.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Response/EnderecoDTO.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/Servicos/EnderecoService.java
+/home/hugo/Músicas/Pasta sem título/AV2-DEVWEB/AV2-DEV-WEB3-main/atvii-autobots-microservico-spring/automanager/src/main/java/com/autobots/automanager/DTO/Request/CriarClienteDTo.java
